@@ -3,7 +3,7 @@
 ### What is React?
 React is a library developed by Meta (formerly Facebook) to allow frontend developers to write frontend code that responds (or "reacts") to changes in state. This library popularized the use of jsx (or Javascript XML), which allows developers to write pseudo-html that can embed Javascript values, code blocks, etc.
 
-One the reasons of React's enduring popularity is its ability to make very modular components. This means that many pieces of frontend code can be "abstracted", so that they can be defined once and resuded in different parts of the codebase. For example, one could define a general "Layout" component that defines the every possible behavior for how its children should be arranged.
+One the reasons of React's enduring popularity is its ability to make very modular components. This means that many pieces of frontend code can be "abstracted", so that they can be defined once and reused in different parts of the codebase. For example, one could define a general "Layout" component that defines the every possible behavior for how its children should be arranged.
 
 ### How do you use React?
 
